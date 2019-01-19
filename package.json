@@ -1,0 +1,22 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "REST Tutorial - Pluralsight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac-soft/BookAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac-soft/BookAPI/issues"
+  },
+  "homepage": "https://github.com/ac-soft/BookAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
